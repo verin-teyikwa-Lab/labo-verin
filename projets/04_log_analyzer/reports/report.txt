@@ -1,0 +1,5 @@
+===LOG ANALYZER REPORT===
+Top 10 IPs:
+ -192.168.1.10: 2 requests
+ -192.168.1.15: 1 requests
+[CRITICAL] Injection: 192.168.1.15 -> /../../../etc/passwd

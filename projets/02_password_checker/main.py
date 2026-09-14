@@ -41,6 +41,4 @@ pwd = input("entre le mot de passe a tester: ")
 result, conseils = check_password(pwd)
 print(f"\nResultat: {result}")
 if conseils:
-    print("pour ameliorer:")
-    for c in conseils:
-        print(c)
+    print("po

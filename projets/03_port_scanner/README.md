@@ -12,4 +12,4 @@ python main.py
 **test 2 : Scan 80-85
 - a faire 
 
-Timeout de 1s par port rend le scan lent.
+Timeout de 1s par port rend le scan lent. 
