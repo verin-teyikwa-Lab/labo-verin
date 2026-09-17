@@ -1,0 +1,26 @@
+---verinlab phishing analysis reports ---
+
+SAFE | 0/100 | https://www.google.com
+
+SAFE | 0/100 | https://www.afriland.cm
+
+SAFE | 0/100 | https://www.paypal.com/login
+
+SAFE | 0/100 | https://192.168.1.10/login
+
+SUSPICIOUS | 30/100 | https://mtn-cameroon-secure-login.com/verify-account
+ - excessive hyphens in domain (3)
+ - suspicious keyword 'secure' + long URL
+
+SUSPICIOUS | 40/100 | https://paypal.com@arnaque.com/login
+ - contains '@' symbol (redirection trick)
+ - suspicious keyword 'login' + long URL
+
+SUSPICIOUS | 30/100 | https://secure-MobileMoney-login-verification-update.com/account
+ - excessive hyphens in domain (4)
+ - suspicious keyword 'secure' + long URL
+
+SUSPICIOUS | 20/100 | https://bit.ly/3xAmpleVeryLongSuspiciousLinkForSecureLoginVerificationToConfirmYouraccount
+ - suspicious keyword 'secure' + long URL
+ -  abnormally long URL (90 chars)
+
